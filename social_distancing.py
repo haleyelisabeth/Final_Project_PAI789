@@ -6,14 +6,8 @@ This is a temporary script file.
 """
 
 import pandas as pd
-#import csv
-import seaborn as sns
-#import matplotlib.pyplot as plt
 
-#import numpy as np
-#import datetime
-#from dateutil.relativedelta import relativedelta
-#from datetime import date
+import seaborn as sns
 
 ny_covid = pd.read_csv('us-states.csv')
 
