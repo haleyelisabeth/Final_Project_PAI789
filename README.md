@@ -9,11 +9,11 @@ length of social distancing measures.
 
 Input Data
 
-There are two data sets used for this project. One is a csv file that contains 
-dates social distancing measures were implemented as well as predicted deaths 
-per state normalized by population and the predicted date at which social 
-distancing measures can be relaxed by state. This data was compiled from The 
-Institute for Health Metrics and Evaluation (IHME), an independent global 
+There are two data sets used for this project. One is a csv file (states_info.csv)
+that contains dates social distancing measures were implemented as well as 
+predicted deaths per state normalized by population and the predicted date at 
+which social distancing measures can be relaxed by state. This data was compiled 
+from The Institute for Health Metrics and Evaluation (IHME), an independent global 
 health research center at the University of Washington.(I was unable to get 
 access to a raw data file that contained the information so I ended up creating
 one).
